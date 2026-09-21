@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eaf1ff"/>
+      <stop offset="100%" stop-color="#fff5df"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="40" fill="url(#bg)"/>
+  <circle cx="300" cy="235" r="115" fill="#ffffff"/>
+  <circle cx="300" cy="220" r="70" fill="#d9e2ec"/>
+  <path d="M180 430c20-90 75-135 120-135s100 45 120 135" fill="#2563eb"/>
+  <circle cx="270" cy="215" r="8" fill="#102a43"/>
+  <circle cx="330" cy="215" r="8" fill="#102a43"/>
+  <path d="M275 255c16 12 34 12 50 0" fill="none" stroke="#102a43" stroke-width="7" stroke-linecap="round"/>
+  <text x="300" y="515" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#102a43">KEERTHI</text>
+  <text x="300" y="555" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#f59e0b">BALAGA</text>
+</svg>
